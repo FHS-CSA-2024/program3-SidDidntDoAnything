@@ -8,7 +8,6 @@ public class main {
         //Your code here:
         Scanner talker = new Scanner(System.in);
         System.out.print("Enter the length: ");
-        main varcheck = new main();
         int length = talker.nextInt();
         System.out.print("Enter the width: ");
         int width = talker.nextInt();
